@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>location</title>
+</head>
+<body>
+    <h1>TRAVEL PLANNER</h1>
+    <div class="form-control"> 
+        <label fom="name"></label>Enter your name: </label>
+        <input type="text" name="" id="">
+        <div class="form-control"> 
+            <label fom="phone number"></label>Enter your phone number: </label>
+            <input type="text" name="" id="">
+            <div class="form-control"> 
+                <label fom="date"></label>Enter your date: </label>
+                <input type="date" name="" id="date">
+                <div class="form-control"> 
+                    <label fom="time"></label>Enter your time: </label>
+                    <input type="time" name="" id="time">
+                    <div class="form-control"> 
+                        <label fom="food"></label>Enter your food: </label>
+                        <input type="checkbox" name="" id="food">
+                        <div class="form-control"> 
+                            <label fom="city"></label>Enter your city: </label>
+                            <input type="text" name="" id="city">
+                            <input type="submit" name="" id="">
+                           
+                       
+                   
+               
+           
+       
+    </div>
+</body>
+</html>
